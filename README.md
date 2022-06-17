@@ -1,9 +1,5 @@
-# Fabric Example Mod
+# Fabric Mod to fix MC-252439
 
-## Setup
+Temporary until stable 1.19.1 releases.
 
-For setup instructions please see the [fabric wiki page](https://fabricmc.net/wiki/tutorial:setup) that relates to the IDE that you are using.
-
-## License
-
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
+It also provides a command `/villagerBrain` to fix already messed up villagers.
